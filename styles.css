@@ -1,0 +1,23 @@
+#imagenCentral{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("./IMAGENES/Central/imagenCentral.png");
+    height: 650px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+    
+  }
+
+body {
+    background-color: black;
+}
+
+ul{
+    text-align: left;
+    color: darkgoldenrod;
+}
+li {
+    color: white;
+    text-align: left;
+}
