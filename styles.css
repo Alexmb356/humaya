@@ -15,9 +15,12 @@ body {
 
 ul{
     text-align: left;
-    color: darkgoldenrod;
+    color: bisque;
+    padding: 0;
 }
-li {
-    color: white;
+
+h6 {
     text-align: left;
+    color: bisque;
+    padding: 0;
 }
